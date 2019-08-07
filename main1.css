@@ -52,6 +52,13 @@ h2:hover{
     padding-bottom:33px;
     transform: skewY(2deg); 
 }
+.secpart2{
+    margin-top: 5%;
+    background :linear-gradient(-45deg,#e231d9,#9d0ae0);
+    padding: 68px;
+    padding-bottom:33px;
+    transform: skewY(2deg); 
+}
 h2{
     text-align: center;
     padding: 1em 2em;
@@ -59,6 +66,11 @@ h2{
     color: white ; 
     font-family: 'Libre Barcode 128 Text', cursive;
     font-size: 50px;
+}
+h3{
+    color: white;
+    align-content: center;
+    margin-left: 29%;
 }
  
 .header .slider {
