@@ -44,7 +44,7 @@ p:hover{
 	position: relative;
 	width: 360px;
 	height: 400px;
-	background: linear-gradient(-45deg,#5d0cb9,#0eb2db);;
+	background: linear-gradient(-45deg,#5d0cb9,#0eb2db);
 	overflow: hidden;
 	transition: .5s;
 	z-index: 2;

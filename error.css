@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(-45deg,#2b043d,#091599);
+    
+}
+.errim{
+    position: absolute;
+  left: 35%;
+  top: 20%;
+  z-index: 2
+;
+}
+.errim:hover{
+    transform: scale(1.2);
+    animation-delay: 3ms;
+}
+.mipart{
+    
+    background :linear-gradient(-45deg,#b90c0c,#d8db0e);
+    padding: 68px;
+    padding-bottom:13px;
+    margin-top: 45%;
+    transform: skewY(2deg); 
+}
+h2{
+  margin-left: 24%;
+}
